@@ -7,6 +7,8 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Pale-illusions&show_icons=true&theme=transparent)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pale-illusions&layout=compact&theme=tokyonight)
+
 
 ### My Skill Set
 
