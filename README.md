@@ -10,7 +10,7 @@
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;相信的心就是你的魔法!" />
 </p>
 
 
@@ -27,7 +27,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunaY77&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <br/>
 <!-- https://github.com/tandpfun/skill-icons -->
-<img align="center" src="https://skillicons.dev/icons?i=py,java&theme=light" />
+<img align="center" src="https://skillicons.dev/icons?i=vim,neovim,py,java,go,ts,react&theme=light" />
 </p>
 
 
